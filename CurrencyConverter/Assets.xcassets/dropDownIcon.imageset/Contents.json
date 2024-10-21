@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "bx_bx-chevron-down.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
